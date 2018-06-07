@@ -82,6 +82,11 @@ a:hover {
     margin-top: -3%;
 }
 
+.social {
+   position: absolute; 	
+
+}
+
 .iconezap {
     
     border-color: grey;
