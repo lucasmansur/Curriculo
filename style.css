@@ -1,6 +1,6 @@
 body {
 	font: 14px "Lucida Grande", "Trebuchet MS", Verdana, sans-serif;
-	color: #3b3b3b;
+	color: #000;
 }
 
 h1,h2 {
@@ -79,6 +79,32 @@ a:hover {
     border-color: coral;
     float: right;
 	margin-right: 20%;
+    margin-top: -3%;
+}
+
+.iconezap {
+    
+    border-color: grey;
+    border-radius: 100px;
+    float: right;
+	margin-right: -10%;
+    margin-top: 14%;
+}
+.iconeini {
+    
+    border-color: grey;
+    border-radius: 100px;
+    float: right;
+	margin-right: -13%;
+    margin-top: 14%;
+}
+.iconefb {
+    
+    border-color: grey;
+    border-radius: 100px;
+    float: right;
+	margin-right: -7%;
+    margin-top: 14%;
 }
 
 
@@ -150,4 +176,3 @@ nav ul ul {
         text-align: center;             
         padding: 0px;
 	}
-
