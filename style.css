@@ -76,15 +76,29 @@ a:hover {
 }
 
 .foto {
+    border-radius: 100px;
     border-color: coral;
     float: right;
 	margin-right: 20%;
-    margin-top: -3%;
+    margin-top: -4%;
 }
 
-.social {
-   position: absolute; 	
+.iconeInsta {
+    
+    border-color: grey;
+    border-radius: 100px;
+    float: right;
+	margin-right: -1%;
+    margin-top: 10%;
+}
 
+.iconeEmail {
+    
+    border-color: grey;
+    border-radius: 100px;
+    float: right;
+	margin-right: -19%;
+    margin-top: 10%;
 }
 
 .iconezap {
@@ -94,22 +108,23 @@ a:hover {
     float: right;
 	margin-right: -10%;
     margin-top: 14%;
+    
 }
 .iconeini {
     
     border-color: grey;
     border-radius: 100px;
     float: right;
-	margin-right: -13%;
-    margin-top: 14%;
+	margin-right: -15%;
+    margin-top: 13%;
 }
 .iconefb {
     
     border-color: grey;
     border-radius: 100px;
     float: right;
-	margin-right: -7%;
-    margin-top: 14%;
+	margin-right: -5%;
+    margin-top: 13%;
 }
 
 
